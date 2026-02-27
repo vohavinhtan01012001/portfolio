@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(pnpm install:*)",
+      "Bash(pnpm build:*)",
+      "Bash(pnpm lint:*)",
+      "Bash(timeout 20 pnpm dev:*)",
+      "mcp__chrome-devtools__navigate_page",
+      "mcp__chrome-devtools__new_page",
+      "mcp__chrome-devtools__list_pages",
+      "Bash(CI=true pnpm install:*)",
+      "Bash(pnpm dev)",
+      "Bash(timeout 15 tail:*)",
+      "Bash(pkill:*)",
+      "Bash(timeout 20 tail:*)"
+    ]
+  }
+}
