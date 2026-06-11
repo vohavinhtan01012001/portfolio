@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import { Button } from "antd";
 import { GithubOutlined, MailOutlined } from "@ant-design/icons";
 import { motion } from "framer-motion";
@@ -7,6 +8,8 @@ import { siteConfig } from "@/lib/data";
 import { TypingEffect } from "@/components/ui/TypingEffect";
 
 export function HeroSection() {
+  const [imgError, setImgError] = useState(false);
+
   return (
     <section className="min-h-[calc(100vh-4rem)] flex items-center px-6 relative overflow-hidden dot-grid">
       {/* Background orbs */}
@@ -101,15 +104,15 @@ export function HeroSection() {
                 <div className="absolute inset-0 flex items-center justify-center bg-[#0a1a0f] text-[#00ff88] text-6xl font-mono font-bold z-0">
                   VT
                 </div>
-                {/* Avatar image overlays fallback when loaded */}
-                <img
-                  src="/avatar.jpg"
-                  alt={siteConfig.name}
-                  className="absolute inset-0 w-full h-full object-cover z-10"
-                  onError={(e) => {
-                    (e.target as HTMLImageElement).style.display = "none";
-                  }}
-                />
+                {/* Avatar image — conditionally rendered so no retry loop on 404 */}
+                {!imgError && (
+                  <img
+                    src="/avatar.jpg"
+                    alt={siteConfig.name}
+                    className="absolute inset-0 w-full h-full object-cover z-10"
+                    onError={() => setImgError(true)}
+                  />
+                )}
               </div>
             </motion.div>
           </motion.div>
