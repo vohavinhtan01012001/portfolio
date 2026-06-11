@@ -1,43 +1,61 @@
 "use client";
 
-import { Typography } from "antd";
+import { motion } from "framer-motion";
 import { aboutText } from "@/lib/data";
-import { useScrollAnimation } from "@/hooks";
-
-const { Title, Paragraph } = Typography;
 
 export function AboutSection() {
-  const { ref, isVisible } = useScrollAnimation({ threshold: 0.2 });
+  const sentences = aboutText
+    .split(/(?<=\.)\s+/)
+    .filter(Boolean);
 
   return (
     <section id="about" className="py-24 px-6 relative">
       <div className="section-divider absolute top-0 left-0 right-0" />
 
-      <div ref={ref} className="max-w-3xl mx-auto">
-        <div
-          className={`flex items-center gap-4 mb-8 ${
-            isVisible ? "animate-fade-in-left" : "opacity-0"
-          }`}
+      <div className="max-w-3xl mx-auto">
+        <motion.div
+          initial={{ opacity: 0, x: -30 }}
+          whileInView={{ opacity: 1, x: 0 }}
+          viewport={{ once: true, amount: 0.2 }}
+          transition={{ duration: 0.5 }}
+          className="flex items-center gap-4 mb-8"
         >
-          <div className="w-12 h-1 bg-gradient-to-r from-[#3b82f6] to-[#8b5cf6] rounded-full" />
-          <Title
-            level={2}
-            className="!text-white !text-3xl !mb-0 !font-bold"
-          >
-            About
-          </Title>
-        </div>
+          <div className="w-12 h-1 bg-gradient-to-r from-[#00ff88] to-[#00d4ff] rounded-full" />
+          <h2 className="text-white text-3xl font-bold m-0">About</h2>
+        </motion.div>
 
-        <div
-          className={`relative ${
-            isVisible ? "animate-fade-in-up delay-200" : "opacity-0"
-          }`}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, amount: 0.2 }}
+          transition={{ duration: 0.5, delay: 0.2 }}
+          className="bg-[#0a1a0f] border border-[#1a3a22] rounded-lg overflow-hidden"
         >
-          <div className="absolute -left-4 top-0 bottom-0 w-1 bg-gradient-to-b from-[#3b82f6] via-[#8b5cf6] to-transparent rounded-full" />
-          <Paragraph className="!text-[#94a3b8] !text-lg !leading-loose !mb-0 pl-6">
-            {aboutText}
-          </Paragraph>
-        </div>
+          {/* Terminal title bar */}
+          <div className="flex items-center gap-2 px-4 py-3 bg-[#0f1f14] border-b border-[#1a3a22]">
+            <div className="w-3 h-3 rounded-full bg-[#ff5f56]" />
+            <div className="w-3 h-3 rounded-full bg-[#ffbd2e]" />
+            <div className="w-3 h-3 rounded-full bg-[#27c93f]" />
+            <span className="ml-3 text-[#4ade80] font-mono text-xs">~/about.md</span>
+          </div>
+
+          {/* Terminal body */}
+          <div className="p-6 font-mono text-sm space-y-3">
+            {sentences.map((sentence, index) => (
+              <motion.p
+                key={index}
+                initial={{ opacity: 0, x: -10 }}
+                whileInView={{ opacity: 1, x: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.4, delay: index * 0.12 }}
+                className="text-[#94a3b8] leading-relaxed m-0"
+              >
+                <span className="text-[#00ff88]">&gt; </span>
+                {sentence}
+              </motion.p>
+            ))}
+          </div>
+        </motion.div>
       </div>
     </section>
   );
