@@ -1,0 +1,80 @@
+[     391ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:3000/node_modules/.vite/deps/chunk-22DY4X5X.js?v=792a95f6:21608
+[     787ms] [ERROR] Warning: findDOMNode is deprecated and will be removed in the next major release. Instead, add a ref directly to the element you want to reference. Learn more about using refs safely here: https://reactjs.org/link/strict-mode-find-node%s 
+    at SingleObserver (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:1727:24)
+    at ResizeObserver3 (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:1804:24)
+    at http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:24613:34
+    at Tooltip2 (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:30308:32)
+    at http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:30974:16
+    at http://localhost:3000/src/components/common/BaseTooltip.tsx:25:61
+    at div
+    at div
+    at div
+    at aside
+    at http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:34570:16
+    at TheSidebar (http://localhost:3000/src/components/common/TheSidebar.tsx:54:30)
+    at div
+    at http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:68141:16
+    at Layout
+    at DefaultLayout (http://localhost:3000/src/layouts/DefaultLayout.tsx:32:5)
+    at ProtectedRoute (http://localhost:3000/src/AppRoutes.tsx:129:27)
+    at RenderedRoute (http://localhost:3000/node_modules/.vite/deps/react-router.js?v=792a95f6:6206:26)
+    at Routes (http://localhost:3000/node_modules/.vite/deps/react-router.js?v=792a95f6:7055:3)
+    at Suspense
+    at AppRoutes (http://localhost:3000/src/AppRoutes.tsx:32:33)
+    at Router (http://localhost:3000/node_modules/.vite/deps/react-router.js?v=792a95f6:6996:13)
+    at BrowserRouter (http://localhost:3000/node_modules/.vite/deps/react-router.js?v=792a95f6:10166:3)
+    at ErrorBoundary (http://localhost:3000/node_modules/.vite/deps/react-error-boundary.js?v=792a95f6:18:5)
+    at div
+    at App (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:22610:16)
+    at LocaleProvider (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:4391:13)
+    at MotionWrapper (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:7605:32)
+    at ProviderChildren (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:7713:5)
+    at ConfigProvider (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:8002:27)
+    at AntConfigProvider (http://localhost:3000/src/contexts/AntConfigProvider.tsx:29:37)
+    at QueryClientProvider (http://localhost:3000/node_modules/.vite/deps/@tanstack_react-query.js?v=792a95f6:2932:3)
+    at _a (http://localhost:3000/node_modules/.vite/deps/react-helmet-async.js?v=792a95f6:624:5)
+    at App (http://localhost:3000/src/App.tsx:40:30) @ http://localhost:3000/node_modules/.vite/deps/chunk-22DY4X5X.js?v=792a95f6:520
+[     788ms] [ERROR] Warning: %s is deprecated in StrictMode. %s was passed an instance of %s which is inside StrictMode. Instead, add a ref directly to the element you want to reference. Learn more about using refs safely here: https://reactjs.org/link/strict-mode-find-node%s findDOMNode findDOMNode DomWrapper4 
+    at button
+    at http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:15211:5
+    at _c (http://localhost:3000/src/components/common/BaseButton.tsx:25:54)
+    at http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:23961:24
+    at DomWrapper4 (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:1713:5)
+    at SingleObserver (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:1727:24)
+    at ResizeObserver3 (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:1804:24)
+    at http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:24613:34
+    at Tooltip2 (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:30308:32)
+    at http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:30974:16
+    at http://localhost:3000/src/components/common/BaseTooltip.tsx:25:61
+    at div
+    at div
+    at div
+    at aside
+    at http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:34570:16
+    at TheSidebar (http://localhost:3000/src/components/common/TheSidebar.tsx:54:30)
+    at div
+    at http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:68141:16
+    at Layout
+    at DefaultLayout (http://localhost:3000/src/layouts/DefaultLayout.tsx:32:5)
+    at ProtectedRoute (http://localhost:3000/src/AppRoutes.tsx:129:27)
+    at RenderedRoute (http://localhost:3000/node_modules/.vite/deps/react-router.js?v=792a95f6:6206:26)
+    at Routes (http://localhost:3000/node_modules/.vite/deps/react-router.js?v=792a95f6:7055:3)
+    at Suspense
+    at AppRoutes (http://localhost:3000/src/AppRoutes.tsx:32:33)
+    at Router (http://localhost:3000/node_modules/.vite/deps/react-router.js?v=792a95f6:6996:13)
+    at BrowserRouter (http://localhost:3000/node_modules/.vite/deps/react-router.js?v=792a95f6:10166:3)
+    at ErrorBoundary (http://localhost:3000/node_modules/.vite/deps/react-error-boundary.js?v=792a95f6:18:5)
+    at div
+    at App (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:22610:16)
+    at LocaleProvider (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:4391:13)
+    at MotionWrapper (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:7605:32)
+    at ProviderChildren (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:7713:5)
+    at ConfigProvider (http://localhost:3000/node_modules/.vite/deps/chunk-TBRQAQV6.js?v=792a95f6:8002:27)
+    at AntConfigProvider (http://localhost:3000/src/contexts/AntConfigProvider.tsx:29:37)
+    at QueryClientProvider (http://localhost:3000/node_modules/.vite/deps/@tanstack_react-query.js?v=792a95f6:2932:3)
+    at _a (http://localhost:3000/node_modules/.vite/deps/react-helmet-async.js?v=792a95f6:624:5)
+    at App (http://localhost:3000/src/App.tsx:40:30) @ http://localhost:3000/node_modules/.vite/deps/chunk-22DY4X5X.js?v=792a95f6:520
+[     860ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/api/v1/chat-ai/models?include_inactive=true:0
+[    1949ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/api/v1/chat-ai/models?include_inactive=true:0
+[    3871ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/api/v1/chat-ai/models?include_inactive=true:0
+[    7879ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/api/v1/chat-ai/models?include_inactive=true:0

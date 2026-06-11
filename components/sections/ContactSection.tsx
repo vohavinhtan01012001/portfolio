@@ -7,7 +7,14 @@ import { siteConfig } from "@/lib/data";
 
 export function ContactSection() {
   return (
-    <section id="contact" className="py-24 px-6 relative">
+    <motion.section
+      id="contact"
+      className="py-24 px-6 relative"
+      initial={{ opacity: 0, y: 40 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true, amount: 0.1 }}
+      transition={{ duration: 0.6 }}
+    >
       <div className="section-divider absolute top-0 left-0 right-0" />
       <div className="absolute top-1/2 left-1/2 w-[500px] h-[500px] bg-gradient-to-r from-[#00ff88]/5 to-[#00d4ff]/5 rounded-full blur-3xl -translate-x-1/2 -translate-y-1/2" />
 
@@ -99,6 +106,6 @@ export function ContactSection() {
           </div>
         </div>
       </div>
-    </section>
+    </motion.section>
   );
 }

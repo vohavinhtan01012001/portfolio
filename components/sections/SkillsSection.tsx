@@ -5,7 +5,14 @@ import { skills } from "@/lib/data";
 
 export function SkillsSection() {
   return (
-    <section id="skills" className="py-24 px-6 bg-[#020c08] relative">
+    <motion.section
+      id="skills"
+      className="py-24 px-6 bg-[#020c08] relative"
+      initial={{ opacity: 0, y: 40 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true, amount: 0.1 }}
+      transition={{ duration: 0.6 }}
+    >
       <div className="section-divider absolute top-0 left-0 right-0" />
       <div className="absolute top-1/2 left-0 w-72 h-72 bg-[#00ff88]/5 rounded-full blur-3xl -translate-y-1/2" />
 
@@ -50,6 +57,6 @@ export function SkillsSection() {
           ))}
         </div>
       </div>
-    </section>
+    </motion.section>
   );
 }

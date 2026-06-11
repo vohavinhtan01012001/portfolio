@@ -5,7 +5,14 @@ import { focusAreas } from "@/lib/data";
 
 export function FocusSection() {
   return (
-    <section id="focus" className="py-24 px-6 bg-[#020c08] relative">
+    <motion.section
+      id="focus"
+      className="py-24 px-6 bg-[#020c08] relative"
+      initial={{ opacity: 0, y: 40 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true, amount: 0.1 }}
+      transition={{ duration: 0.6 }}
+    >
       <div className="section-divider absolute top-0 left-0 right-0" />
       <div className="absolute bottom-0 left-1/2 w-96 h-96 bg-[#00ff88]/5 rounded-full blur-3xl -translate-x-1/2" />
 
@@ -42,6 +49,6 @@ export function FocusSection() {
           ))}
         </div>
       </div>
-    </section>
+    </motion.section>
   );
 }

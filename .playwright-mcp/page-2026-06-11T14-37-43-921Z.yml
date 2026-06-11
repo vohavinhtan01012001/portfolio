@@ -1,0 +1,192 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "> vinh.tân_" [ref=e4] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=e5]: "> vinh.tân_"
+    - navigation [ref=e6]:
+      - link "// About" [ref=e7] [cursor=pointer]:
+        - /url: "#about"
+      - link "// Skills" [ref=e8] [cursor=pointer]:
+        - /url: "#skills"
+      - link "// Projects" [ref=e9] [cursor=pointer]:
+        - /url: "#projects"
+      - link "// Focus" [ref=e10] [cursor=pointer]:
+        - /url: "#focus"
+      - link "// Contact" [ref=e11] [cursor=pointer]:
+        - /url: "#contact"
+    - button "menu" [ref=e12] [cursor=pointer]:
+      - img "menu" [ref=e14]:
+        - img [ref=e15]
+  - main [ref=e17]:
+    - generic [ref=e20]:
+      - generic [ref=e21]:
+        - paragraph [ref=e22]: $ whoami
+        - heading "Vinh Tân" [level=1] [ref=e23]
+        - generic [ref=e25]: "|"
+        - paragraph [ref=e26]: Building scalable web and mobile applications with modern React ecosystem
+        - generic [ref=e27]:
+          - link "mail Get in Touch" [ref=e28] [cursor=pointer]:
+            - /url: "#contact"
+            - img "mail" [ref=e30]:
+              - img [ref=e31]
+            - generic [ref=e33]: Get in Touch
+          - link "github View GitHub" [ref=e34] [cursor=pointer]:
+            - /url: https://github.com/vohavinhtan01012001
+            - img "github" [ref=e36]:
+              - img [ref=e37]
+            - generic [ref=e39]: View GitHub
+      - generic [ref=e42]:
+        - generic [ref=e43]: VT
+        - img "Vinh Tân"
+    - generic [ref=e45]:
+      - heading "About" [level=2] [ref=e47]
+      - generic [ref=e48]:
+        - generic [ref=e49]: ~/about.md
+        - generic [ref=e50]:
+          - paragraph [ref=e51]: "> Front-end developer with experience building web applications using React, Next.js and various modern frameworks."
+          - paragraph [ref=e52]: "> Skilled in implementing customer-requested features, developing new pages to enhance user experience, and building complete frontend solutions for web applications."
+    - generic [ref=e54]:
+      - heading "Skills" [level=2] [ref=e56]
+      - generic [ref=e57]:
+        - generic [ref=e58]:
+          - generic [ref=e59]: // Frontend
+          - generic [ref=e60]:
+            - generic [ref=e61]: <React />
+            - generic [ref=e62]: <Next.js />
+            - generic [ref=e63]: <TypeScript />
+            - generic [ref=e64]: <Tailwind CSS />
+            - generic [ref=e65]: <Ant Design />
+            - generic [ref=e66]: <Zustand />
+            - generic [ref=e67]: <Material Design />
+            - generic [ref=e68]: <Shadcn />
+        - generic [ref=e69]:
+          - generic [ref=e70]: // Mobile
+          - generic [ref=e71]:
+            - generic [ref=e72]: <React Native />
+            - generic [ref=e73]: <Expo />
+            - generic [ref=e74]: <Expo Router />
+        - generic [ref=e75]:
+          - generic [ref=e76]: // Backend
+          - generic [ref=e77]:
+            - generic [ref=e78]: <Python />
+            - generic [ref=e79]: <Express />
+        - generic [ref=e80]:
+          - generic [ref=e81]: // Tools
+          - generic [ref=e82]:
+            - generic [ref=e83]: <Postman />
+            - generic [ref=e84]: <Git />
+            - generic [ref=e85]: <Supabase />
+    - generic [ref=e87]:
+      - heading "Projects" [level=2] [ref=e89]
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - text: ┌─
+          - generic [ref=e92]:
+            - heading "Markuro AI" [level=3] [ref=e93]
+            - generic [ref=e94]:
+              - text: "[LIVE]"
+              - link "link" [ref=e95] [cursor=pointer]:
+                - /url: https://chat.markuro.ai/
+                - img "link" [ref=e97]:
+                  - img [ref=e98]
+          - paragraph [ref=e100]: // VIET NAM DMS COMPANY LIMITED — 04/2025 - 07/2025
+          - paragraph [ref=e101]: Markuro AI is an AI-powered marketing assistant designed to help businesses automate marketing tasks and advertising campaigns. You can sign up early and use this tool to save working time.
+          - generic [ref=e102]: ReactTypeScriptAnt DesignTailwind CSSZustandReact QueryPythonFastAPIPostgreSQLRedis
+        - generic [ref=e103]:
+          - text: ┌─
+          - generic [ref=e104]:
+            - heading "Powershop E-commerce" [level=3] [ref=e105]
+            - generic [ref=e106]:
+              - text: "[LIVE]"
+              - link "link" [ref=e107] [cursor=pointer]:
+                - /url: https://powershop.ai/
+                - img "link" [ref=e109]:
+                  - img [ref=e110]
+          - paragraph [ref=e112]: // VIET NAM DMS COMPANY LIMITED — 07/2024 - 09/2024
+          - paragraph [ref=e113]: PowerShop.ai is an online shopping platform that integrates an AI assistant to help users find products, discover deals, and receive support throughout the purchasing process.
+          - generic [ref=e114]: ReactNextJSTypeScriptTailwind CSSAnt DesignZustand
+        - generic [ref=e115]:
+          - text: ┌─
+          - generic [ref=e116]:
+            - heading "ServerKit Web" [level=3] [ref=e117]
+            - generic [ref=e118]:
+              - text: "[LIVE]"
+              - link "link" [ref=e119] [cursor=pointer]:
+                - /url: https://server-kit.com/
+                - img "link" [ref=e121]:
+                  - img [ref=e122]
+          - paragraph [ref=e124]: // KKAL VIETNAM COMPANY LIMITED — 09/2024 - 11/2024
+          - paragraph [ref=e125]: Website introducing the ServerKit tool for server management.
+          - generic [ref=e126]: Next.jsReactTypeScriptTailwind CSSreact-slick
+        - generic [ref=e127]:
+          - text: ┌─
+          - generic [ref=e128]:
+            - heading "Shinmock" [level=3] [ref=e129]
+            - generic [ref=e130]: "[INTERNAL]"
+          - paragraph [ref=e131]: // KKAL VIETNAM COMPANY LIMITED — 08/2025 - 12/2025
+          - paragraph [ref=e132]: A web-based course management system with features for registration, content posting, and student/teacher management.
+          - generic [ref=e133]: Next.jsMaterial Design
+        - generic [ref=e134]:
+          - text: ┌─
+          - generic [ref=e135]:
+            - heading "ZeroBase" [level=3] [ref=e136]
+            - generic [ref=e137]: "[INTERNAL]"
+          - paragraph [ref=e138]: // KKAL VIETNAM COMPANY LIMITED — 03/2024 - 06/2025
+          - paragraph [ref=e139]: Website for managing posts and modules with clean architecture.
+          - generic [ref=e140]: ReactTypeScriptViteTailwind CSSShadcn
+        - generic [ref=e141]:
+          - text: ┌─
+          - generic [ref=e142]:
+            - heading "Devsk" [level=3] [ref=e143]
+            - generic [ref=e144]: "[INTERNAL]"
+          - paragraph [ref=e145]: // KKAL VIETNAM COMPANY LIMITED — 12/2024 - 02/2025
+          - paragraph [ref=e146]: An AI chat website designed to help customers easily create a website according to their own preferences.
+          - generic [ref=e147]: ReactRadix UITanStack React QueryAxiosTailwind CSS
+    - generic [ref=e149]:
+      - heading "What I Focus On" [level=2] [ref=e151]
+      - generic [ref=e152]:
+        - generic [ref=e153]:
+          - generic [ref=e154]: "[01]"
+          - generic [ref=e155]:
+            - heading "Frontend Development" [level=3] [ref=e156]
+            - paragraph [ref=e157]: Building modern web applications with React, Next.js, Vue.js and TypeScript.
+        - generic [ref=e158]:
+          - generic [ref=e159]: "[02]"
+          - generic [ref=e160]:
+            - heading "UI/UX Implementation" [level=3] [ref=e161]
+            - paragraph [ref=e162]: Implementing responsive designs with Tailwind CSS, Ant Design, Material Design and Shadcn.
+        - generic [ref=e163]:
+          - generic [ref=e164]: "[03]"
+          - generic [ref=e165]:
+            - heading "Desktop Applications" [level=3] [ref=e166]
+            - paragraph [ref=e167]: Developing cross-platform desktop apps using Electron with React.
+        - generic [ref=e168]:
+          - generic [ref=e169]: "[04]"
+          - generic [ref=e170]:
+            - heading "Performance Optimization" [level=3] [ref=e171]
+            - paragraph [ref=e172]: Optimizing web applications for better user experience and faster load times.
+    - generic [ref=e174]:
+      - heading "Get in Touch" [level=2] [ref=e176]
+      - paragraph [ref=e177]: Interested in working together? Feel free to reach out.
+      - generic [ref=e178]:
+        - generic [ref=e179]: ~/contact
+        - generic [ref=e180]:
+          - paragraph [ref=e181]: $ contact --vinh
+          - generic [ref=e182]:
+            - paragraph [ref=e183]:
+              - text: ">"
+              - generic [ref=e184]: "email:"
+              - text: vohavinhtan6@gmail.com
+            - paragraph [ref=e185]: "> github: github.com/vohavinhtan01012001"
+          - generic [ref=e186]:
+            - link "send [→ Send Email]" [ref=e187] [cursor=pointer]:
+              - /url: mailto:vohavinhtan6@gmail.com
+              - img "send" [ref=e189]:
+                - img [ref=e190]
+              - generic [ref=e192]: "[→ Send Email]"
+            - link "github" [ref=e193] [cursor=pointer]:
+              - /url: https://github.com/vohavinhtan01012001
+              - img "github" [ref=e195]:
+                - img [ref=e196]
+  - contentinfo [ref=e198]:
+    - paragraph [ref=e200]: // EOF — built with React + Next.js + Ant Design by Vinh Tân

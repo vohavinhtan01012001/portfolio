@@ -1,0 +1,16 @@
+- generic [active]:
+  - generic:
+    - generic:
+      - alert "Loading UseAnyModels" [ref=e1]:
+        - img "UseAnyModels logo - Loading" [ref=e2]:
+          - generic [ref=e9]: UseAnyModels
+      - region "Notifications alt+T"
+      - generic [ref=e11]:
+        - generic [ref=e12]:
+          - heading "Cookie Notice" [level=4] [ref=e13]:
+            - img [ref=e14]
+            - text: Cookie Notice
+          - paragraph [ref=e16]: We use essential cookies to ensure the proper functioning of our website, including authentication and security features.
+        - button "Got it" [ref=e17] [cursor=pointer]:
+          - generic [ref=e18]: Got it
+      - status "Loading page" [ref=e19]

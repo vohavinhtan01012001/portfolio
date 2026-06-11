@@ -9,7 +9,14 @@ export function AboutSection() {
     .filter(Boolean);
 
   return (
-    <section id="about" className="py-24 px-6 relative">
+    <motion.section
+      id="about"
+      className="py-24 px-6 relative"
+      initial={{ opacity: 0, y: 40 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true, amount: 0.1 }}
+      transition={{ duration: 0.6 }}
+    >
       <div className="section-divider absolute top-0 left-0 right-0" />
 
       <div className="max-w-3xl mx-auto">
@@ -57,6 +64,6 @@ export function AboutSection() {
           </div>
         </motion.div>
       </div>
-    </section>
+    </motion.section>
   );
 }

@@ -1,0 +1,1105 @@
+[   45586ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   45697ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   46985ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   48001ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   49013ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   50028ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   51043ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   52190ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   52373ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   52401ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   53900ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   53975ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   54022ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   54206ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   54626ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   54699ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   54735ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   54916ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   55291ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   55369ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   55426ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   55581ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   55998ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   56072ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   56104ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   56261ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   56590ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   56654ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   56700ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   56860ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   57204ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   57280ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   57315ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   57450ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   57780ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   57854ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   57886ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   58048ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   58382ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   58455ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   58487ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   58650ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   58984ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   59049ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   59076ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   59259ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   59563ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   59626ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   59662ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   59782ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   60113ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   60203ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   60255ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   60373ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   60698ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   60766ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   60787ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   60945ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   61263ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   61341ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   61386ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   61547ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   61881ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   61965ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   62013ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   62195ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   62538ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   62605ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   62645ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   62738ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   63058ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   63118ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   63155ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   63247ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   63552ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   63620ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   63655ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   63773ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   64073ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   64135ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   64165ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   64267ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   64574ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   64633ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   64670ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   64773ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   65060ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   65126ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   65163ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   65316ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   65598ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   65653ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   65678ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   65787ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   66064ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   66124ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   66150ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   66246ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   66535ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   66598ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   66634ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   66734ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   67021ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   67079ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   67117ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   67217ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   67514ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   67572ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   67614ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   67706ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   67998ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   68056ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   68089ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   68209ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   68492ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   68544ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   68579ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   68670ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   68947ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   69002ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   69034ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   69133ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   69431ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   69491ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   69529ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   69662ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   69980ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   70049ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   70093ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   70230ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   70580ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   70701ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   70769ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   70964ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   71333ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   71413ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   71447ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   71617ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   71951ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   72044ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   72121ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   72348ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   72734ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   72817ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   72861ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   72987ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   73279ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   73337ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   73362ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   73467ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   73800ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   73771ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   73795ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   73922ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   74250ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   74321ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   74353ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   74472ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   74771ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   74828ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   74867ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   74958ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   75270ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   75329ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   75372ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   75466ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   75758ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   75811ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   75838ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   75933ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   76219ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   76269ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   76303ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   76416ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   76711ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   76760ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   76785ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   76882ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   77191ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   77245ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   77262ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   77386ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   77682ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   77734ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   77754ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   77886ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   78181ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   78240ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   78264ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   78386ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   78668ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   78719ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   78743ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   78854ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   79136ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   79185ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   79208ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   79344ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   79657ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   79723ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   79750ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   79856ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   80173ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   80239ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   80265ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   80363ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   80643ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   80693ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   80718ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   80824ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   81380ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   81433ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   81457ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   81556ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   81855ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   81921ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   81937ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   82059ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   82365ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   82418ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   82442ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   82571ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   82865ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   82916ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   82939ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   83071ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   83365ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   83414ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   83430ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   83541ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   83826ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   83876ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   83899ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   84010ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   84288ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   84335ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   84357ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   84472ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   84756ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   84808ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   84833ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   84954ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   85266ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   85320ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   85343ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   85447ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   85731ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   85782ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   85806ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   85922ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   86230ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   86281ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   86300ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   86411ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   86702ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   86754ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   86781ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   86876ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   87171ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   87226ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   87249ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   87349ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   87642ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   87696ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   87719ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   87827ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   88111ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   88161ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   88185ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   88284ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   88569ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   88623ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   88646ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   88751ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   89043ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   89091ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   89115ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   89238ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   89525ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   89581ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   89599ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   89917ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   90261ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   90308ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   90329ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   90487ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   90814ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   90876ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   90901ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   91024ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   91330ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   91382ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   91403ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   91530ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   91809ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   91865ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   91892ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   91996ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   92280ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   92335ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   92359ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   92478ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   92781ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   92834ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   92860ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   92992ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   93284ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   93337ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   93361ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   93453ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   93751ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   93803ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   93828ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   94116ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   94420ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   94472ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   94496ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   94591ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   94901ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   94950ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   94974ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   95088ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   95383ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   95432ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   95455ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   95565ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   95869ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   95923ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   95946ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   96057ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   96360ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   96413ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   96438ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   96532ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   96820ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   96873ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   96892ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   97013ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   97299ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   97353ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   97381ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   97480ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   97777ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   97829ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   97852ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   97964ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   98254ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   98306ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   98330ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   98431ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   98724ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   98772ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   98795ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   98908ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   99195ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   99243ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   99266ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   99366ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   99671ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[   99723ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   99744ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[   99838ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  100137ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  100190ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  100217ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  100325ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  100612ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  100664ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  100687ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  100796ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  101082ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  101132ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  101155ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  101258ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  101560ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  101612ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  101645ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  101756ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  102047ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  102098ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  102122ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  102229ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  102526ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  102578ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  102602ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  102696ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  102994ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  103044ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  103068ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  103167ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  103461ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  103511ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  103535ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  103628ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  103819ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  103877ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  103896ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  104035ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  104311ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  104361ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  104382ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  104477ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  104753ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  104806ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  104830ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  104919ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  105213ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  105262ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  105288ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  105412ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  105684ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  105734ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  105758ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  105862ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  106154ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  106209ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  106227ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  106354ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  106658ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  106706ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  106732ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  106867ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  107357ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  107409ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  107444ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  107550ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  107832ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  107886ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  107911ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  108005ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  108298ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  108353ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  108379ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  108475ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  108821ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  108877ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  108923ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  109016ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  109340ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  109398ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  109425ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  109529ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  109887ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  109953ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  109990ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  110118ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  110425ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  110481ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  110522ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  110623ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  110934ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  110985ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  111017ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  111125ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  111442ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  111500ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  111535ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  111647ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  111954ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  112010ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  112035ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  112146ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  112458ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  112512ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  112557ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  112688ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  112997ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  113047ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  113084ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  113194ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  113502ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  113558ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  113585ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  113690ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  114010ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  114073ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  114111ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  114196ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  114498ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  114553ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  114583ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  114745ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  115110ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  115175ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  115205ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  115313ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  115637ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  115696ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  115731ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  115874ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  116201ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  116255ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  116289ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  116425ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  116751ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  116816ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  116857ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  116978ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  117308ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  117371ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  117413ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  117518ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  117878ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  117933ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  117968ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  118098ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  118418ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  118476ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  118516ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  118629ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  118960ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  119015ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  119043ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  119159ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  119490ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  119553ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  119578ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  119682ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  119989ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  120042ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  120063ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  120192ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  120488ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  120542ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  120563ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  120688ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  120990ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  121040ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  121063ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  121185ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  121484ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  121538ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  121554ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  121683ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  122016ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  122067ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  122092ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  122192ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  122484ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  122535ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  122557ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  122685ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  122975ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  123028ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  123044ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  123164ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  123472ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  123530ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  123548ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  123678ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  123978ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  124030ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  124052ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  124179ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  124524ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  124589ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  124619ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  124740ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  125052ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  125107ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  125126ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  125254ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  125549ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  125606ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  125628ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  125903ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  126210ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  126286ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  126338ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  126610ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  126932ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  126982ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  127005ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  127105ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  127434ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  127488ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  127513ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  127636ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  127946ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  127994ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  128016ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  128134ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  128586ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  128657ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  128690ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  128816ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  129189ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  129259ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  129287ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  129479ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  129885ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  129947ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  129973ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  130087ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  130559ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  130652ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  130684ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  130813ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  131145ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  131195ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  131211ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  131342ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  131693ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  131750ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  131778ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  131914ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  132230ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  132287ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  132306ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  132443ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  132782ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  132843ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  132884ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  132985ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  133296ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  133363ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  133400ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  133503ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  134131ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  134202ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  134242ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  134333ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  134629ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  134683ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  134706ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  134805ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  135100ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  135165ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  135189ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  135299ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  135594ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  135648ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  135672ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  135775ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  136055ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  136107ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  136133ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  136236ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  136540ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  136612ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  136644ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  136750ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  137053ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  137108ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  137139ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  137248ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  137536ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  137598ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  137623ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  137717ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  137996ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  138047ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  138080ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  138174ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  138472ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  138530ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  138565ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  138689ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  138964ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  139017ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  139042ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  139140ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  139415ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  139467ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  139494ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  139605ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  139895ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  139948ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  139980ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  140074ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  140365ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  140420ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  140444ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  140555ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  140844ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  140899ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  140926ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  141029ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  141323ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  141378ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  141406ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  141531ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  141813ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  141867ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  141890ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  142017ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  142315ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  142370ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  142392ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  142506ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  142787ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  142839ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  142858ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  142975ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  143273ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  143326ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  143348ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  143460ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  143758ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  143831ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  143866ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  143978ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  144270ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  144325ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  144348ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  144450ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  144741ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  144795ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  144821ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  144920ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  145201ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  145247ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  145263ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  145380ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  145671ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  145719ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  145743ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  145843ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  146140ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  146190ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  146216ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  146318ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  146595ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  146652ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  146674ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  146773ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  147066ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  147118ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  147142ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  147244ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  147533ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  147588ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  147611ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  147715ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  148004ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  148054ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  148077ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  148187ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  148471ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  148522ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  148547ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  148651ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  148946ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  148993ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  149018ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  149119ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  149407ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  149457ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  149481ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  149597ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  149887ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  149940ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  149967ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  150063ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  150368ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  150419ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  150441ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  150546ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  150829ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  150885ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  150909ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  151020ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  151305ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  151355ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  151379ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  151476ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  151764ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  151819ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  151842ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  151945ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  152238ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  152291ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  152317ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  152429ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  152719ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  152771ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  152793ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  152893ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  153199ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  153248ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  153271ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  153374ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  153675ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  153726ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  153748ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  153901ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  154174ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  154223ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  154248ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  154349ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  154634ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  154684ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  154710ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  154808ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  155102ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  155159ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  155183ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  155276ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  155564ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  155619ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  155641ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  155743ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  156020ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  156069ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  156092ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  156201ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  156476ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  156528ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  156551ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  156642ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  157309ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  157357ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  157377ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  157504ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  157806ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  157860ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  157884ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  157990ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  158271ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  158323ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  158345ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  158449ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  158864ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  158908ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  158929ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  159073ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  159371ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  159425ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  159449ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  159572ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  159865ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  159914ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  159936ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  160047ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  160352ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  160407ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  160432ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  160520ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  160810ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  160860ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  160881ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  160984ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  161274ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  161332ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  161353ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  161475ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  161758ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  161812ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  161837ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  161943ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  162247ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  162308ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  162330ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  162439ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  162884ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  162944ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  162969ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  163089ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  163469ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  163447ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  163472ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  163629ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  163961ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  164022ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  164049ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  164162ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  164494ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  164544ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  164571ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  164706ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  165033ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  165088ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  165110ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  165214ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  165533ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  165585ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  165607ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  165721ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  166042ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  166094ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  166118ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  166254ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  166576ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  166634ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  166659ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  166758ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  167070ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  167121ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  167141ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  167248ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  167576ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  167643ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  167664ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  167777ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  168091ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  168144ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  168167ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  168282ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  168605ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  168659ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  168674ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  168793ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  169107ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  169157ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  169181ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  169297ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  169619ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  169674ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  169698ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  169796ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  170117ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  170171ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  170194ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  170299ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  170628ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  170680ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  170705ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  170818ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  171138ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  171190ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  171208ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  171327ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  171630ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  171682ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  171706ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  171830ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  172202ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  172263ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  172289ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  172404ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  172765ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  172816ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  172835ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  172944ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  173255ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  173312ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  173340ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  173441ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  173742ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  173794ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  173820ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  173930ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  174218ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  174267ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  174288ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  174405ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  174691ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  174743ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  174767ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  174888ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  175157ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  175211ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  175234ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  175359ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  175650ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  175705ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  175727ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  175849ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  176133ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  176184ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  176210ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  176314ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  176601ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  176655ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  176679ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  176779ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  177070ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  177121ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  177139ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  177251ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  177542ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  177602ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  177625ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  177724ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  178015ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  178067ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  178090ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  178247ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  178532ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  178586ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  178610ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  178711ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  179016ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  179069ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  179091ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  179205ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  179516ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  179569ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  179596ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  179708ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  179993ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  180046ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  180070ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  180185ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  180839ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  180900ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  180925ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  181039ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  181333ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  181391ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  181411ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  181553ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  181853ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  181904ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  181923ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  182051ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  182341ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  182398ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  182423ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  182547ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  182843ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  182900ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  182923ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  183046ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  183342ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  183396ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  183418ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  183532ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  183836ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  183896ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  183918ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  184032ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  184317ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  184372ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  184399ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  184506ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  184824ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  184877ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  184902ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  185030ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  185339ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  185395ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  185423ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  185540ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  185847ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  185900ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  185926ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  186042ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  186343ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  186392ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  186413ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  186534ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  186949ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  187013ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  187031ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  187184ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  187492ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  187545ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  187566ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  187688ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  187971ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  188022ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  188044ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  188176ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  188461ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  188519ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  188547ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  188654ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  188938ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  188988ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  189010ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  189156ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  189442ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  189497ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  189522ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  189643ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  189921ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  189974ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  189999ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  190111ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  190414ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  190475ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  190504ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  190604ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  190909ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  190961ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  190986ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  191125ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  191406ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  191632ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  191703ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  191729ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  192034ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  192083ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  192109ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  192205ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  192507ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  192560ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  192586ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  192711ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  193003ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  193060ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  193086ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  193185ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  193377ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  193431ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  193454ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  193553ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  193838ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  193891ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  193913ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  194023ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  194296ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/avatar.jpg:0
+[  194350ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297
+[  194374ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/b2b3e_next_dist_77a734fe._.js:2297

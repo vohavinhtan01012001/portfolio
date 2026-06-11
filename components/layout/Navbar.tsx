@@ -26,11 +26,9 @@ export function Navbar() {
           <a
             key={item.href}
             href={item.href}
-            className="text-[#94a3b8] hover:text-white transition-colors no-underline text-sm font-mono relative group"
+            className="text-[#94a3b8] hover:text-[#00ff88] transition-colors no-underline text-sm font-mono group"
           >
-            <span className="text-[#00ff88] opacity-0 group-hover:opacity-100 transition-opacity">
-              //
-            </span>{" "}
+            <span className="text-[#1a3a22] group-hover:text-[#00ff88] transition-colors">//</span>{" "}
             {item.label}
           </a>
         ))}
