@@ -1,80 +1,46 @@
 "use client";
 
-import { Typography, Card, Row, Col } from "antd";
-import {
-  CodeOutlined,
-  AppstoreOutlined,
-  ThunderboltOutlined,
-  ToolOutlined,
-} from "@ant-design/icons";
+import { motion } from "framer-motion";
 import { focusAreas } from "@/lib/data";
-import { useScrollAnimation } from "@/hooks";
-
-const { Title, Paragraph } = Typography;
-
-const icons = [
-  <CodeOutlined key="code" className="!text-2xl" />,
-  <AppstoreOutlined key="appstore" className="!text-2xl" />,
-  <ThunderboltOutlined key="thunder" className="!text-2xl" />,
-  <ToolOutlined key="tool" className="!text-2xl" />,
-];
 
 export function FocusSection() {
-  const { ref, isVisible } = useScrollAnimation({ threshold: 0.15 });
-
   return (
-    <section id="focus" className="py-24 px-6 bg-[#0a0f1a] relative">
+    <section id="focus" className="py-24 px-6 bg-[#020c08] relative">
       <div className="section-divider absolute top-0 left-0 right-0" />
+      <div className="absolute bottom-0 left-1/2 w-96 h-96 bg-[#00ff88]/5 rounded-full blur-3xl -translate-x-1/2" />
 
-      {/* Background decoration */}
-      <div className="absolute bottom-0 left-1/2 w-96 h-96 bg-blue-500/5 rounded-full blur-3xl -translate-x-1/2" />
-
-      <div ref={ref} className="max-w-5xl mx-auto relative z-10">
-        <div
-          className={`flex items-center gap-4 mb-12 ${
-            isVisible ? "animate-fade-in-left" : "opacity-0"
-          }`}
+      <div className="max-w-5xl mx-auto relative z-10">
+        <motion.div
+          initial={{ opacity: 0, x: -30 }}
+          whileInView={{ opacity: 1, x: 0 }}
+          viewport={{ once: true, amount: 0.2 }}
+          transition={{ duration: 0.5 }}
+          className="flex items-center gap-4 mb-12"
         >
-          <div className="w-12 h-1 bg-gradient-to-r from-[#3b82f6] to-[#8b5cf6] rounded-full" />
-          <Title level={2} className="!text-white !text-3xl !mb-0 !font-bold">
-            What I Focus On
-          </Title>
-        </div>
+          <div className="w-12 h-1 bg-gradient-to-r from-[#00ff88] to-[#00d4ff] rounded-full" />
+          <h2 className="text-white text-3xl font-bold m-0">What I Focus On</h2>
+        </motion.div>
 
-        <Row gutter={[24, 24]}>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
           {focusAreas.map((area, index) => (
-            <Col xs={24} sm={12} key={area.title}>
-              <div
-                className={isVisible ? "animate-fade-in-up" : "opacity-0"}
-                style={{
-                  animationDelay: isVisible ? `${(index + 1) * 0.15}s` : "0s",
-                }}
-              >
-                <Card
-                  className="h-full !bg-transparent !border-[#1e293b] hover:!border-[#334155] transition-all group"
-                  styles={{ body: { padding: 24 } }}
-                >
-                  <div className="flex items-start gap-4">
-                    <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-[#3b82f6]/20 to-[#8b5cf6]/20 flex items-center justify-center text-[#3b82f6] group-hover:from-[#3b82f6]/30 group-hover:to-[#8b5cf6]/30 transition-all shrink-0">
-                      {icons[index]}
-                    </div>
-                    <div>
-                      <Title
-                        level={4}
-                        className="!text-white !text-lg !mb-2 !font-semibold"
-                      >
-                        {area.title}
-                      </Title>
-                      <Paragraph className="!text-[#94a3b8] !mb-0 !text-sm !leading-relaxed">
-                        {area.description}
-                      </Paragraph>
-                    </div>
-                  </div>
-                </Card>
+            <motion.div
+              key={area.title}
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.4, delay: index * 0.1 }}
+              className="bg-transparent border border-[#1a3a22] border-l-2 border-l-[#00ff88] rounded-xl p-6 hover:bg-[#00ff88]/5 transition-all flex items-start gap-4"
+            >
+              <span className="font-mono text-[#00ff88] text-sm font-bold shrink-0 mt-0.5">
+                [{String(index + 1).padStart(2, "0")}]
+              </span>
+              <div>
+                <h3 className="text-white text-lg font-semibold mb-2 m-0">{area.title}</h3>
+                <p className="text-[#94a3b8] text-sm leading-relaxed m-0">{area.description}</p>
               </div>
-            </Col>
+            </motion.div>
           ))}
-        </Row>
+        </div>
       </div>
     </section>
   );

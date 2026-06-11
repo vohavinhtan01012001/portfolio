@@ -1,79 +1,102 @@
 "use client";
 
-import { Typography, Button, Card } from "antd";
-import {
-  MailOutlined,
-  GithubOutlined,
-  LinkedinOutlined,
-  SendOutlined,
-} from "@ant-design/icons";
+import { motion } from "framer-motion";
+import { Button } from "antd";
+import { GithubOutlined, SendOutlined } from "@ant-design/icons";
 import { siteConfig } from "@/lib/data";
-import { useScrollAnimation } from "@/hooks";
-
-const { Title, Text } = Typography;
 
 export function ContactSection() {
-  const { ref, isVisible } = useScrollAnimation({ threshold: 0.2 });
-
   return (
     <section id="contact" className="py-24 px-6 relative">
       <div className="section-divider absolute top-0 left-0 right-0" />
+      <div className="absolute top-1/2 left-1/2 w-[500px] h-[500px] bg-gradient-to-r from-[#00ff88]/5 to-[#00d4ff]/5 rounded-full blur-3xl -translate-x-1/2 -translate-y-1/2" />
 
-      {/* Background decoration */}
-      <div className="absolute top-1/2 left-1/2 w-[500px] h-[500px] bg-gradient-to-r from-blue-500/5 to-purple-500/5 rounded-full blur-3xl -translate-x-1/2 -translate-y-1/2" />
-
-      <div ref={ref} className="max-w-3xl mx-auto relative z-10">
-        <div
-          className={`flex items-center gap-4 mb-6 ${
-            isVisible ? "animate-fade-in-left" : "opacity-0"
-          }`}
+      <div className="max-w-3xl mx-auto relative z-10">
+        <motion.div
+          initial={{ opacity: 0, x: -30 }}
+          whileInView={{ opacity: 1, x: 0 }}
+          viewport={{ once: true, amount: 0.2 }}
+          transition={{ duration: 0.5 }}
+          className="flex items-center gap-4 mb-6"
         >
-          <div className="w-12 h-1 bg-gradient-to-r from-[#3b82f6] to-[#8b5cf6] rounded-full" />
-          <Title level={2} className="!text-white !text-3xl !mb-0 !font-bold">
-            Get in Touch
-          </Title>
-        </div>
+          <div className="w-12 h-1 bg-gradient-to-r from-[#00ff88] to-[#00d4ff] rounded-full" />
+          <h2 className="text-white text-3xl font-bold m-0">Get in Touch</h2>
+        </motion.div>
 
-        <Text
-          className={`text-[#94a3b8] text-lg block mb-10 ${
-            isVisible ? "animate-fade-in-up delay-100" : "opacity-0"
-          }`}
+        <motion.p
+          initial={{ opacity: 0, y: 10 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.4, delay: 0.1 }}
+          className="text-[#94a3b8] text-lg mb-10"
         >
           Interested in working together? Feel free to reach out.
-        </Text>
+        </motion.p>
 
-        <div
-          className={isVisible ? "animate-fade-in-up delay-200" : "opacity-0"}
-        >
-          <Card
-            className="!bg-[#0f172a] !border-[#1e293b] gradient-border"
-            styles={{ body: { padding: 32 } }}
-          >
-            <div className="flex flex-col gap-6">
+        <div className="bg-[#0a1a0f] border border-[#1a3a22] rounded-lg overflow-hidden">
+          {/* Terminal title bar */}
+          <div className="flex items-center gap-2 px-4 py-3 bg-[#0f1f14] border-b border-[#1a3a22]">
+            <div className="w-3 h-3 rounded-full bg-[#ff5f56]" />
+            <div className="w-3 h-3 rounded-full bg-[#ffbd2e]" />
+            <div className="w-3 h-3 rounded-full bg-[#27c93f]" />
+            <span className="ml-3 text-[#4ade80] font-mono text-xs">~/contact</span>
+          </div>
+
+          {/* Terminal body */}
+          <div className="p-6 font-mono text-sm space-y-3">
+            <motion.p
+              initial={{ opacity: 0 }}
+              whileInView={{ opacity: 1 }}
+              viewport={{ once: true }}
+              transition={{ delay: 0.1 }}
+              className="text-[#4ade80] m-0"
+            >
+              <span className="text-[#00ff88]">$ </span>contact --vinh
+            </motion.p>
+
+            <motion.div
+              initial={{ opacity: 0 }}
+              whileInView={{ opacity: 1 }}
+              viewport={{ once: true }}
+              transition={{ delay: 0.3 }}
+              className="space-y-2"
+            >
+              <p className="text-[#94a3b8] m-0">
+                <span className="text-[#00ff88]">&gt; </span>
+                <span className="text-[#4ade80]">email:{"  "}</span>
+                {siteConfig.email}
+              </p>
+              <p className="text-[#94a3b8] m-0">
+                <span className="text-[#00ff88]">&gt; </span>
+                <span className="text-[#4ade80]">github: </span>
+                github.com/vohavinhtan01012001
+              </p>
+            </motion.div>
+
+            <motion.div
+              initial={{ opacity: 0, y: 10 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ delay: 0.5 }}
+              className="flex flex-col sm:flex-row gap-3 pt-2"
+            >
               <Button
-                type="primary"
                 size="large"
                 icon={<SendOutlined />}
                 href={`mailto:${siteConfig.email}`}
-                className="!h-14 !text-base !font-medium glow-hover w-full sm:w-auto"
+                className="!h-12 !text-base !font-mono !bg-[#00ff88] !border-[#00ff88] !text-[#020c08] hover:!bg-[#00cc70] hover:!border-[#00cc70]"
               >
-                {siteConfig.email}
+                [→ Send Email]
               </Button>
-
-              <div className="flex items-center gap-4">
-                <Text className="text-[#64748b] text-sm">Or find me on</Text>
-                <div className="flex gap-3">
-                  <Button
-                    size="large"
-                    icon={<GithubOutlined className="!text-xl" />}
-                    href={siteConfig.github}
-                    target="_blank"
-                    className="!w-12 !h-12 !p-0 !bg-[#1e293b] !border-[#334155] hover:!border-[#3b82f6] hover:!text-[#3b82f6] flex items-center justify-center"
-                  />
-                </div>
-              </div>
-            </div>
-          </Card>
+              <Button
+                size="large"
+                icon={<GithubOutlined className="!text-xl" />}
+                href={siteConfig.github}
+                target="_blank"
+                className="!h-12 !w-12 !p-0 !bg-transparent !border-[#1a3a22] !text-[#94a3b8] hover:!border-[#00d4ff] hover:!text-[#00d4ff] flex items-center justify-center"
+              />
+            </motion.div>
+          </div>
         </div>
       </div>
     </section>
