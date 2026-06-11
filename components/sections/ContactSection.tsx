@@ -12,7 +12,7 @@ export function ContactSection() {
       className="py-24 px-6 relative"
       initial={{ opacity: 0, y: 40 }}
       whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true, amount: 0.1 }}
+      viewport={{ once: false, amount: 0.1 }}
       transition={{ duration: 0.6 }}
     >
       <div className="section-divider absolute top-0 left-0 right-0" />
@@ -22,7 +22,7 @@ export function ContactSection() {
         <motion.div
           initial={{ opacity: 0, x: -30 }}
           whileInView={{ opacity: 1, x: 0 }}
-          viewport={{ once: true, amount: 0.2 }}
+          viewport={{ once: false, amount: 0.2 }}
           transition={{ duration: 0.5 }}
           className="flex items-center gap-4 mb-6"
         >
@@ -33,7 +33,7 @@ export function ContactSection() {
         <motion.p
           initial={{ opacity: 0, y: 10 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
+          viewport={{ once: false }}
           transition={{ duration: 0.4, delay: 0.1 }}
           className="text-[#94a3b8] text-lg mb-10"
         >
@@ -54,7 +54,7 @@ export function ContactSection() {
             <motion.p
               initial={{ opacity: 0 }}
               whileInView={{ opacity: 1 }}
-              viewport={{ once: true }}
+              viewport={{ once: false }}
               transition={{ delay: 0.1 }}
               className="text-[#4ade80] m-0"
             >
@@ -64,7 +64,7 @@ export function ContactSection() {
             <motion.div
               initial={{ opacity: 0 }}
               whileInView={{ opacity: 1 }}
-              viewport={{ once: true }}
+              viewport={{ once: false }}
               transition={{ delay: 0.3 }}
               className="space-y-2"
             >
@@ -83,7 +83,7 @@ export function ContactSection() {
             <motion.div
               initial={{ opacity: 0, y: 10 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: false }}
               transition={{ delay: 0.5 }}
               className="flex flex-col sm:flex-row gap-3 pt-2"
             >

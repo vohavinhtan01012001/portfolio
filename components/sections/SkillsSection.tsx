@@ -10,7 +10,7 @@ export function SkillsSection() {
       className="py-24 px-6 bg-[#020c08] relative"
       initial={{ opacity: 0, y: 40 }}
       whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true, amount: 0.1 }}
+      viewport={{ once: false, amount: 0.1 }}
       transition={{ duration: 0.6 }}
     >
       <div className="section-divider absolute top-0 left-0 right-0" />
@@ -20,7 +20,7 @@ export function SkillsSection() {
         <motion.div
           initial={{ opacity: 0, x: -30 }}
           whileInView={{ opacity: 1, x: 0 }}
-          viewport={{ once: true, amount: 0.2 }}
+          viewport={{ once: false, amount: 0.2 }}
           transition={{ duration: 0.5 }}
           className="flex items-center gap-4 mb-12"
         >
@@ -34,7 +34,7 @@ export function SkillsSection() {
               key={category}
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: false }}
               transition={{ duration: 0.5, delay: categoryIndex * 0.1 }}
               className="flex flex-col sm:flex-row sm:items-start gap-4"
             >

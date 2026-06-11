@@ -12,7 +12,7 @@ export function ProjectsSection() {
       className="py-24 px-6 relative"
       initial={{ opacity: 0, y: 40 }}
       whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true, amount: 0.05 }}
+      viewport={{ once: false, amount: 0.05 }}
       transition={{ duration: 0.6 }}
     >
       <div className="section-divider absolute top-0 left-0 right-0" />
@@ -22,7 +22,7 @@ export function ProjectsSection() {
         <motion.div
           initial={{ opacity: 0, x: -30 }}
           whileInView={{ opacity: 1, x: 0 }}
-          viewport={{ once: true, amount: 0.2 }}
+          viewport={{ once: false, amount: 0.2 }}
           transition={{ duration: 0.5 }}
           className="flex items-center gap-4 mb-12"
         >
@@ -36,7 +36,7 @@ export function ProjectsSection() {
               key={project.title}
               initial={{ opacity: 0, scale: 0.95 }}
               whileInView={{ opacity: 1, scale: 1 }}
-              viewport={{ once: true }}
+              viewport={{ once: false }}
               transition={{ duration: 0.4, delay: index * 0.08 }}
               className="group bg-[#0a1a0f] border border-[#1a3a22] rounded-xl p-7 relative hover:border-[#00ff88] hover:shadow-[0_0_20px_rgba(0,255,136,0.12)] hover:-translate-y-1 transition-all flex flex-col"
             >
