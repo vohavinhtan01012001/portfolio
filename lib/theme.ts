@@ -2,14 +2,14 @@ import type { ThemeConfig } from "antd";
 
 export const theme: ThemeConfig = {
   token: {
-    colorPrimary: "#3b82f6",
-    colorBgContainer: "#0f172a",
-    colorBgElevated: "#1e293b",
-    colorBgLayout: "#030712",
-    colorText: "#f1f5f9",
-    colorTextSecondary: "#94a3b8",
-    colorBorder: "#1e293b",
-    colorBorderSecondary: "#334155",
+    colorPrimary: "#00ff88",
+    colorBgContainer: "#0a1a0f",
+    colorBgElevated: "#0f1f14",
+    colorBgLayout: "#020c08",
+    colorText: "#e2e8f0",
+    colorTextSecondary: "#4ade80",
+    colorBorder: "#1a3a22",
+    colorBorderSecondary: "#1a3a22",
     borderRadius: 12,
     fontFamily:
       'var(--font-geist-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
@@ -18,20 +18,20 @@ export const theme: ThemeConfig = {
     Layout: {
       headerBg: "transparent",
       bodyBg: "transparent",
-      footerBg: "#0a0f1a",
+      footerBg: "#020c08",
     },
     Card: {
-      colorBgContainer: "#0f172a",
-      colorBorderSecondary: "#1e293b",
+      colorBgContainer: "#0a1a0f",
+      colorBorderSecondary: "#1a3a22",
     },
     Button: {
-      colorPrimary: "#3b82f6",
+      colorPrimary: "#00ff88",
       algorithm: true,
       borderRadius: 8,
     },
     Tag: {
-      colorBgContainer: "#1e293b",
-      colorBorder: "#334155",
+      colorBgContainer: "#0a1a0f",
+      colorBorder: "#1a3a22",
     },
   },
 };
