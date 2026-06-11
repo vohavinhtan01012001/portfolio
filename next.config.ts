@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  watchOptions: {
+    ignored: ["**/.playwright-mcp/**", "**/node_modules/**"],
+  },
 };
 
 export default nextConfig;
