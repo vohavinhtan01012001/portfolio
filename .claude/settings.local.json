@@ -13,7 +13,10 @@
       "Bash(pnpm dev)",
       "Bash(timeout 15 tail:*)",
       "Bash(pkill:*)",
-      "Bash(timeout 20 tail:*)"
+      "Bash(timeout 20 tail:*)",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "mcp__plugin_playwright_playwright__browser_wait_for",
+      "mcp__plugin_playwright_playwright__browser_take_screenshot"
     ]
   }
 }

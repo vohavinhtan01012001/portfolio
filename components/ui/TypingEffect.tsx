@@ -56,7 +56,7 @@ export function TypingEffect({
   return (
     <span className={className}>
       {displayText}
-      <span className="animate-blink text-[#00ff88]">|</span>
+      <span className="animate-blink text-[#8b5cf6]">|</span>
     </span>
   );
 }

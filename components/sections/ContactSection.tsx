@@ -16,7 +16,7 @@ export function ContactSection() {
       transition={{ duration: 0.6 }}
     >
       <div className="section-divider absolute top-0 left-0 right-0" />
-      <div className="absolute top-1/2 left-1/2 w-[500px] h-[500px] bg-gradient-to-r from-[#00ff88]/5 to-[#00d4ff]/5 rounded-full blur-3xl -translate-x-1/2 -translate-y-1/2" />
+      <div className="absolute top-1/2 left-1/2 w-[500px] h-[500px] bg-gradient-to-r from-[#8b5cf6]/5 to-[#38bdf8]/5 rounded-full blur-3xl -translate-x-1/2 -translate-y-1/2" />
 
       <div className="max-w-3xl mx-auto relative z-10">
         <motion.div
@@ -26,7 +26,7 @@ export function ContactSection() {
           transition={{ duration: 0.5 }}
           className="flex items-center gap-4 mb-6"
         >
-          <div className="w-12 h-1 bg-gradient-to-r from-[#00ff88] to-[#00d4ff] rounded-full" />
+          <div className="w-12 h-1 bg-gradient-to-r from-[#8b5cf6] to-[#38bdf8] rounded-full" />
           <h2 className="text-white text-3xl font-bold m-0">Get in Touch</h2>
         </motion.div>
 
@@ -40,13 +40,13 @@ export function ContactSection() {
           Interested in working together? Feel free to reach out.
         </motion.p>
 
-        <div className="bg-[#0a1a0f] border border-[#1a3a22] rounded-lg overflow-hidden">
+        <div className="bg-[#0d0d1a] border border-[#1c1c30] rounded-lg overflow-hidden">
           {/* Terminal title bar */}
-          <div className="flex items-center gap-2 px-4 py-3 bg-[#0f1f14] border-b border-[#1a3a22]">
+          <div className="flex items-center gap-2 px-4 py-3 bg-[#111120] border-b border-[#1c1c30]">
             <div className="w-3 h-3 rounded-full bg-[#ff5f56]" />
             <div className="w-3 h-3 rounded-full bg-[#ffbd2e]" />
             <div className="w-3 h-3 rounded-full bg-[#27c93f]" />
-            <span className="ml-3 text-[#4ade80] font-mono text-xs">~/contact</span>
+            <span className="ml-3 text-[#a78bfa] font-mono text-xs">~/contact</span>
           </div>
 
           {/* Terminal body */}
@@ -56,9 +56,9 @@ export function ContactSection() {
               whileInView={{ opacity: 1 }}
               viewport={{ once: false }}
               transition={{ delay: 0.1 }}
-              className="text-[#4ade80] m-0"
+              className="text-[#a78bfa] m-0"
             >
-              <span className="text-[#00ff88]">$ </span>contact --vinh
+              <span className="text-[#8b5cf6]">$ </span>contact --vinh
             </motion.p>
 
             <motion.div
@@ -69,13 +69,13 @@ export function ContactSection() {
               className="space-y-2"
             >
               <p className="text-[#94a3b8] m-0">
-                <span className="text-[#00ff88]">&gt; </span>
-                <span className="text-[#4ade80]">email:{"  "}</span>
+                <span className="text-[#8b5cf6]">&gt; </span>
+                <span className="text-[#a78bfa]">email:{"  "}</span>
                 {siteConfig.email}
               </p>
               <p className="text-[#94a3b8] m-0">
-                <span className="text-[#00ff88]">&gt; </span>
-                <span className="text-[#4ade80]">github: </span>
+                <span className="text-[#8b5cf6]">&gt; </span>
+                <span className="text-[#a78bfa]">github: </span>
                 github.com/vohavinhtan01012001
               </p>
             </motion.div>
@@ -91,7 +91,7 @@ export function ContactSection() {
                 size="large"
                 icon={<SendOutlined />}
                 href={`mailto:${siteConfig.email}`}
-                className="!h-12 !text-base !font-mono !bg-[#00ff88] !border-[#00ff88] !text-[#020c08] hover:!bg-[#00cc70] hover:!border-[#00cc70]"
+                className="!h-12 !text-base !font-mono !bg-[#8b5cf6] !border-[#8b5cf6] !text-[#07070e] hover:!bg-[#7c3aed] hover:!border-[#7c3aed]"
               >
                 [→ Send Email]
               </Button>
@@ -100,7 +100,7 @@ export function ContactSection() {
                 icon={<GithubOutlined className="!text-xl" />}
                 href={siteConfig.github}
                 target="_blank"
-                className="!h-12 !w-12 !p-0 !bg-transparent !border-[#1a3a22] !text-[#94a3b8] hover:!border-[#00d4ff] hover:!text-[#00d4ff] flex items-center justify-center"
+                className="!h-12 !w-12 !p-0 !bg-transparent !border-[#1c1c30] !text-[#94a3b8] hover:!border-[#38bdf8] hover:!text-[#38bdf8] flex items-center justify-center"
               />
             </motion.div>
           </div>

@@ -1,14 +1,14 @@
 @import "tailwindcss";
 
 :root {
-  --background: #020c08;
+  --background: #07070e;
   --foreground: #e2e8f0;
-  --primary: #00ff88;
-  --primary-glow: rgba(0, 255, 136, 0.15);
-  --secondary: #00d4ff;
-  --card-bg: #0a1a0f;
-  --card-border: #1a3a22;
-  --text-muted: #4ade80;
+  --primary: #8b5cf6;
+  --primary-glow: rgba(139, 92, 246, 0.15);
+  --secondary: #38bdf8;
+  --card-bg: #0d0d1a;
+  --card-border: #1c1c30;
+  --text-muted: #a78bfa;
 }
 
 @theme inline {
@@ -30,7 +30,7 @@ body {
 
 /* Dot grid background */
 .dot-grid {
-  background-image: radial-gradient(circle, #1a3a22 1px, transparent 1px);
+  background-image: radial-gradient(circle, #1c1c30 1px, transparent 1px);
   background-size: 28px 28px;
 }
 
@@ -67,7 +67,7 @@ body {
 
 /* Hacker gradient text */
 .gradient-text-hacker {
-  background: linear-gradient(135deg, #00ff88 0%, #00d4ff 100%);
+  background: linear-gradient(135deg, #8b5cf6 0%, #38bdf8 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -85,7 +85,7 @@ body {
 }
 
 .ant-layout-header {
-  background: rgba(2, 12, 8, 0.85) !important;
+  background: rgba(7, 7, 14, 0.85) !important;
   backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--card-border) !important;
 }
@@ -95,5 +95,5 @@ body {
 }
 
 .ant-layout-footer {
-  background: #020c08 !important;
+  background: #07070e !important;
 }
