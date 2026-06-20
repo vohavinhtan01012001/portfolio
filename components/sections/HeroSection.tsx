@@ -122,7 +122,7 @@ export function HeroSection() {
                   <p className="m-0 pl-5">
                     <span className="text-[#a78bfa]">role</span>
                     <span className="text-[#e2e8f0]">: </span>
-                    <span className="text-[#fbbf24]">&quot;Frontend Engineer&quot;</span>
+                    <span className="text-[#fbbf24]">&quot;FullStack Engineer&quot;</span>
                     <span className="text-[#e2e8f0]">,</span>
                   </p>
                   <p className="m-0 pl-5">

@@ -16,11 +16,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Vinh Tân | Frontend Engineer",
+  title: "Vinh Tân | FullStack Engineer",
   description:
-    "Frontend engineer focused on building scalable and maintainable web/mobile apps using React, Next.js and React Native.",
+    "FullStack engineer focused on building scalable and maintainable web/mobile apps using React, Next.js and React Native.",
   keywords: [
-    "Frontend Engineer",
+    "FullStack Engineer",
     "React",
     "Next.js",
     "TypeScript",
@@ -28,9 +28,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Vinh Tân" }],
   openGraph: {
-    title: "Vinh Tân | Frontend Engineer",
+    title: "Vinh Tân | FullStack Engineer",
     description:
-      "Frontend engineer focused on building scalable and maintainable web/mobile apps.",
+      "FullStack engineer focused on building scalable and maintainable web/mobile apps.",
     type: "website",
   },
 };
