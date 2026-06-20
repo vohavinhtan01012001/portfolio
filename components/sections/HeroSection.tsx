@@ -43,7 +43,7 @@ export function HeroSection() {
               className="text-xl md:text-2xl font-mono mb-6 h-9"
             >
               <TypingEffect
-                texts={["Front-end Developer", "React Specialist", "Next.js Engineer"]}
+                texts={["FullStack Developer", "React Specialist", "Next.js Engineer"]}
                 className="text-[#38bdf8]"
               />
             </motion.div>

@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Vinh Tân",
-  role: "Front-end Developer",
+  role: "FullStack Developer",
   email: "vohavinhtan6@gmail.com",
   github: "https://github.com/vohavinhtan01012001",
 };
